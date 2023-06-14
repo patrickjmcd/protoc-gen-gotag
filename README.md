@@ -97,3 +97,4 @@ the "outdir" parameter.  If you experience any `no such file or directory`, erro
         	--go_out=:. \
         	--gotag_out=xxx="graphql+\"-\" bson+\"-\"":. example/example.proto
 ``` 
+
